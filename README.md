@@ -1,6 +1,6 @@
 # Indice
 
-[Projeto Cadastro](#-projeto-calend%C3%A1rio-interativo)    
+[Projeto Cadastro](#-projeto-cadastro)    
 [Descrição](#-descri%C3%A7%C3%A3o)  
 [Funcionalidades](#%EF%B8%8F-funcionalidade)   
 [Tecnologias utilizadas](#-tecnologias-utilizadas)   
@@ -9,7 +9,7 @@
 
 # 🚀 PROJETO CADASTRO 
  
-![gif]
+![img](img/Captura%20de%20tela%202023-09-22%20094749.png)  
 
 ## 📝 Descrição 
 - O projeto de Cadastro consiste em uma tela com informações de endereço que podem ser puxadas através de seu CEP.
@@ -30,8 +30,8 @@ Usamos o bootstrap para deixar o site responsivo, de uma maneira de deixe sua ex
 ### 💻 Tecnologias utilizadas
 - Git  
 - GitHub  
-- HTML  
-- CSS  
+- HTML5 
+- CSS3  
 - JS  
 - Vs Code  
 - Bootstrap
