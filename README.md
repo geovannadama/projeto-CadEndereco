@@ -12,19 +12,18 @@
 ![img](img/Captura%20de%20tela%202023-09-22%20094749.png)  
 
 ## 📝 Descrição 
-- O projeto de Cadastro consiste em uma tela com informações de endereço que podem ser puxadas através de seu CEP.
-Usamos o bootstrap para deixar o site responsivo, de uma maneira de deixe sua experiência muito mais rápida e dinâmica.
+- Esté é um projeto web que apresenta uma tela de cadastro com funcionalidade de consulta de endereço através do CEP. Com essa funcionalidade, o usuário poderá preencher o cadastro informando apenas o CEP, é o sistema preencherá automaticamente os campos de endereço, como rua, bairro, cidade e estado.
 
 ### Status
 - Em construção
 
 ## ⚙️ Funcionalidade 
-- Adicionar cep para puxar o endereço
 
-- Campos essenciais para serem preenchidos
+- Tela de Cadastro: O aplicativo exibe uma tela intuitiva de cadastro com campos para CEP, endereço, bairro, número, cidade e estado.
 
+- Consulta de Endereço: Ao preencher o campo de CEP, o sistema realiza uma consulta a uma API de serviço de CEP para obter as informações de endereço correspondentes.   
 
-
+- Preenchimento Automático: Com base no CEP informado, o sistema preenche automaticamente os campos de endereço, facilitando o preenchimento do formulário.  
 
 
 ### 💻 Tecnologias utilizadas
@@ -35,6 +34,7 @@ Usamos o bootstrap para deixar o site responsivo, de uma maneira de deixe sua ex
 - JS  
 - Vs Code  
 - Bootstrap
+- API
 
 
 ## 🔎 Fontes consultadas
