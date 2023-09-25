@@ -35,6 +35,7 @@
 - Vs Code  
 - Bootstrap
 - API
+- Arrow Function e Expressão regular
 
 
 ## 🔎 Fontes consultadas
