@@ -38,6 +38,7 @@
 - Arrow Function e Expressão regular
 
 
+
 ## 🔎 Fontes consultadas
 - Professor Leonardo   
 
