@@ -37,7 +37,10 @@
 - API
 - Arrow Function e Expressão regular
 
+####
+- Arrow Function: As arrow functions permitem ter um retorno implícito, que são valores retornados sem ter que usar a palavar return.
 
+- Expressões Regulares: Expressões Regulares são padrões de caracteres que associam sequências de caracteres no texto. Podemos usar expressões regulares para extrair ou substituir porções de texto, bem como, endereço ou link de imagens em uma página HTML, modificar formato de texto ou remover caracteres inválidos.
 
 ## 🔎 Fontes consultadas
 - Professor Leonardo   
