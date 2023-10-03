@@ -41,6 +41,8 @@
 
 - Expressões Regulares: Expressões Regulares são padrões de caracteres que associam sequências de caracteres no texto. Podemos usar expressões regulares para extrair ou substituir porções de texto, bem como, endereço ou link de imagens em uma página HTML, modificar formato de texto ou remover caracteres inválidos.
 
+- Await: A expressão await faz a execução de uma função async pausar, para esperar pelo retorno da Promise , e resume a execução da função async quando o valor da Promise é resolvido. Ele então retorna o valor final da Promise. Se esse valor não for uma Promise , ele é convertido para uma Promise resolvida.
+
 ## 🔎 Fontes consultadas
 - Professor Leonardo   
 
