@@ -9,7 +9,7 @@
 
 # 🚀 PROJETO CADASTRO 
  
-![gif](img/Gravando%202023-10-03%20073307.mp4)  
+![gif](img/Gravando%202023-10-03%20073307.gif)  
 
 ## 📝 Descrição 
 - Esté é um projeto web que apresenta uma tela de cadastro com funcionalidade de consulta de endereço através do CEP. Com essa funcionalidade, o usuário poderá preencher o cadastro informando apenas o CEP, é o sistema preencherá automaticamente os campos de endereço, como rua, bairro, cidade e estado.
