@@ -9,7 +9,7 @@
 
 # 🚀 PROJETO CADASTRO 
  
-![img](img/Captura%20de%20tela%202023-09-22%20094749.png)  
+![gif](img/Gravando%202023-10-03%20073307.mp4)  
 
 ## 📝 Descrição 
 - Esté é um projeto web que apresenta uma tela de cadastro com funcionalidade de consulta de endereço através do CEP. Com essa funcionalidade, o usuário poderá preencher o cadastro informando apenas o CEP, é o sistema preencherá automaticamente os campos de endereço, como rua, bairro, cidade e estado.
@@ -33,9 +33,8 @@
 - CSS3  
 - JS  
 - Vs Code  
-- Bootstrap
-- API
-- Arrow Function e Expressão regular
+- Bootstrap  
+- Arrow Function e Expressão regular  
 
 ####
 - Arrow Function: As arrow functions permitem ter um retorno implícito, que são valores retornados sem ter que usar a palavar return.
